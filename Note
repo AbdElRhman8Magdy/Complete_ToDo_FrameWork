@@ -1,0 +1,11 @@
+// npx cypress open
+// npx cypress open -- e2e -- browser chrome
+
+// npm install @faker-js/faker --save-dev
+// import { faker } from '@faker-js/faker';
+
+ 
+// npx cypress run --e2e  // run all test cases and files
+// npx cypress run --e2e --config baseurl=baseUrl:https://todo.qacart.com /// to change testing server 
+
+// npx cypress run --record --key <your-record-key> --parallel
